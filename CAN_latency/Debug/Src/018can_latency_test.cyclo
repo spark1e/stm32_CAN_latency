@@ -1,0 +1,17 @@
+../Src/018can_latency_test.c:85:13:uart_print	1
+../Src/018can_latency_test.c:92:13:u32_to_dec	5
+../Src/018can_latency_test.c:120:13:u32_to_hex	2
+../Src/018can_latency_test.c:136:13:TIM2_MicrosTimer_Init	1
+../Src/018can_latency_test.c:154:24:micros	1
+../Src/018can_latency_test.c:159:13:delay_us	2
+../Src/018can_latency_test.c:164:13:delay_ms	2
+../Src/018can_latency_test.c:176:13:CAN1_GPIO_Init	1
+../Src/018can_latency_test.c:196:13:UART2_GPIO_Init	1
+../Src/018can_latency_test.c:222:13:UART2_Init	1
+../Src/018can_latency_test.c:246:13:CAN1_Init_500kbps	1
+../Src/018can_latency_test.c:282:13:CAN1_Filter_Init	1
+../Src/018can_latency_test.c:308:13:print_banner	1
+../Src/018can_latency_test.c:318:13:print_tx	1
+../Src/018can_latency_test.c:336:13:print_rx	1
+../Src/018can_latency_test.c:354:13:print_latency	2
+../Src/018can_latency_test.c:378:5:main	4
