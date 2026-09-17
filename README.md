@@ -3,6 +3,9 @@
 
 A bare-metal embedded project that measures round-trip CAN latency between two STM32 nodes monitored by a BeagleBone Black, testing whether the system can meet a real-time deadline under bus load. Written entirely at the register level - no HAL.
 
+<img width="948" height="650" alt="can11" src="https://github.com/user-attachments/assets/3c299da7-286d-4a33-ac70-5a2f77a52efa" />
+
+
 ---
 
 ## The Question
